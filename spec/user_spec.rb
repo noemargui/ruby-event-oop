@@ -1,4 +1,4 @@
-require_relative '../lib/user'
+require_relative '../lib/user.rb'
 
 describe User do
 
